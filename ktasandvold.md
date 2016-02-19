@@ -1,6 +1,6 @@
 #sandwich
 bread
 ham
-mustard
+mayo
 cheese
 EAT
